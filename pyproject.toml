@@ -1,0 +1,18 @@
+[project]
+name = "proyecto-final-alberto-yesares"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gradio>=5.4.0",
+    "imblearn>=0.0",
+    "jupyterlab>=4.2.5",
+    "matplotlib>=3.9.2",
+    "numpy>=2.1.2",
+    "pandas>=2.2.3",
+    "plotnine>=0.13.6",
+    "scikit-learn>=1.5.2",
+    "seaborn>=0.13.2",
+    "xgboost>=2.1.2",
+]
