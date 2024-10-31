@@ -2,6 +2,8 @@
 
 ## Introducción
 
+Este proyecto está creado para predecir el tipo de personalidad de una persona utilizando el modelo de machine learning **Random Forest**.
+
 El concepto de las "16 personalidades" proviene del indicador de tipo Myers-Briggs (MBTI), que es una teoría desarrollada por Isabel Briggs Myers y su madre, Katharine Cook Briggs, basada en las teorías del psiquiatra Carl Jung. Este modelo clasifica la personalidad en 16 tipos distintos, que resultan de combinar cuatro pares de preferencias:
 
 - **Extraversión (E) - Introversión (I)**: Indica dónde las personas obtienen su energía: de la interacción con el mundo externo (E) o del mundo interno de ideas y reflexiones (I).
