@@ -65,3 +65,15 @@ Sigue estos pasos para construir y ejecutar la aplicación:
 
    ```bash
    docker build --no-cache -t gradio-app .
+
+2. **Ejecutar el Contenedor**:
+
+   ```bash
+   docker run -p 7860:7860 gradio-app
+3. **Abrir la Aplicación**:
+
+   Una vez que el contenedor esté ejecutándose, abre en enlace que aparecerá en la terminal de Docker para acceder a la aplicación de Gradio.
+
+4. **Realiza una Predicción**:
+
+   Ingresa los datos solicitados en la aplicación, y el algoritmo te proporcionará una predicción del tipo de personalidad según el modelo MBTI.
