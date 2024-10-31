@@ -61,12 +61,12 @@ El archivo Dockerfile del proyecto está configurado para:
 
 Sigue estos pasos para construir y ejecutar la aplicación:
 
-1. **Construir la Imagen Docker**:
+1. **Construir la Imagen Docker (En la Terminal de Docker)**:
 
    ```bash
    docker build --no-cache -t gradio-app .
 
-2. **Ejecutar el Contenedor**:
+2. **Ejecutar el Contenedor (En la Terminal de Docker)**:
 
    ```bash
    docker run -p 7860:7860 gradio-app
